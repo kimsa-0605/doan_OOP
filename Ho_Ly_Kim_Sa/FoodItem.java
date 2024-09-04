@@ -9,6 +9,7 @@ public class FoodItem {
     public void setNameFoodItem(String nameFoodItem){
         this.nameFoodItem = nameFoodItem;
     }
+    
     public void setPriceFoodItem(double priceFoodItem){
         this.priceFoodItem = priceFoodItem;
     }
